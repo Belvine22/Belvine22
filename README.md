@@ -51,7 +51,7 @@ Ingénieure spécialisée en **Computer Vision appliquée à l'imagerie médical
 |--------|-------------|-------|--------|
 | 🏥 [Medical Imaging Predictor](#) | Prédiction de 38 pathologies · 92% précision · 30 100 images | PyTorch · scikit-learn · Django | 🔒 Confidentiel |
 | 🤖 [Multi-Agent E-commerce](#) | 7 agents IA · analyse produits · < 5 min/produit | LangChain · Gemini · Google ADK | 🔒 Confidentiel |
-| 💬 [ChatBot Simulation Entretien](https://github.com/Belvine22/ChatBot_simulation_entretien_Maeva_Belvine) | Simulation d'entretien RH avec feedback IA | LangChain · Groq · Streamlit | ✅ Public |
+| 💬 [Interview Coach AI](https://github.com/Belvine22/interview-coach-ai) || Simulation d'entretien RH avec feedback IA | LangChain · Groq · Streamlit | ✅ Public |
 
 ---
 
